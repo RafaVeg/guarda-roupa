@@ -3,19 +3,27 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>P.d.R.</title>
+	<title>P.d.R.=fatos</title>
 </head>
 <body>
-	<h1>
-	P.d.R.
+	<header>
+		<h1><img src="Rambutão mestre.jpg"></h1>
+        <ul>
+        	<li><a href="vermelho normal.html">Rambutão vermelho</a></li>
+        	<li>Rambutão amarelo</li>
+            <li>Rambutão vermelho com "espinhos" verdes</li>
+        </ul>
+	</header>
+	<h2>
+	<em>P.d.R.</em>
 	(pesquisadores do rambutão)
-</h1>
+</h2>
 <p>
 O <strong>rambutão</strong> é o fruto da <strong>rambuteira</strong>, uma árvore tropical da família <em><strong>Sapindaceae</strong></em>, e é nativa do <strong>Arquipélago Malaio</strong>.</p>
 <p>
-	<strong>O QUE É O RAMBUTÃO?</strong>
+	<strong>O QUE É UM RAMBUTÃO?</strong>
 </p>
-<p>O rambutão é uma fruta vermelha (pode raramente ser amarela) que tem uma casca dura com vários fios que lembram espinhos e um interior carnudo translucido e branco.<img src="rambutão 1.jpg">
-Ele é encontrado em abundancia na região <strong>sudeste da Ásia</strong> e na <strong>Tailândia</strong>
+<p>O rambutão é uma fruta vermelha (pode raramente ser amarela) que tem uma casca dura com vários fios que lembram espinhos e um interior carnudo translucido e tem chance de ser branco ou rosa com um gosto doce e um pouco ácido.
+<p><img src="Rambutão 1.jpg"></p><p><strong>ONDE SE ENCONTRA?</strong></p>Ele é encontrado em abundancia na região <strong>sudeste da Ásia</strong> e na <strong>Tailândia</strong>, mas recentemente começou a ser cultivado no <strong>norte do Brasil</strong>.
 </body>
 </html>
